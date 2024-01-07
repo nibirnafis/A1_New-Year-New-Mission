@@ -1,0 +1,115 @@
+
+/* Section-1 */
+.First-Container{
+    margin-top: 50px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+
+.First-Container-Texts{
+    font-family: 'Merriweather', serif;
+    font-size: 32px;
+    position: absolute;
+    color: white;
+    text-align: center;
+    margin-top: 177px;
+    margin-bottom: 177px;
+}
+.p-1{
+    margin-top: 0px;
+    font-size: 32px;
+    font-weight: 400;
+}
+.p-2{
+    font-size: 72px;
+    margin-top: 16px;
+    font-weight: 900;
+}
+   /* background-image: linear-gradient(to bottom, rgb(0, 0, 0), rgba(0, 0, 0, 0)); */
+
+/* Section-2 */
+
+.Second-Container{
+    margin-top: 120px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 120px;
+}
+
+.Second-Container-Texts{
+    margin-top: 0px;
+    font-family: 'Inter', sans-serif;
+    margin-bottom: 48px;
+}
+
+.p2-1{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-weight: 700;
+    margin-bottom: 48px;
+}
+
+.p2-2{
+    margin-top: 0px;
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 0px;
+}
+
+.p2-3{
+    margin-top: 16px;
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+    margin-bottom: 0px;
+}
+
+/* Section-2 */
+
+.Third-Container{
+    margin-top: 120px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+
+.Third-Container-Texts-png{
+    margin-top: 70px;
+    gap: 200px;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+}
+
+.p3-1{
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 64px;
+    font-weight: 900;
+    margin-bottom: 0px;
+}
+.p3-2{
+    margin-top: 24px;
+    color: rgba(255, 255, 255, 0.80);
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+}
+.p3-3{
+    margin-top: 48px;
+    margin-left: 32px;
+    color: #FFF;
+    text-align: left;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+}
