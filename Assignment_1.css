@@ -285,17 +285,59 @@
     position: absolute;
 }
 
-.box{
+/* section-7 */
+
+.seventh-container{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 120px;
+}
+
+.seventh-contants{
+    display: flex;
+    flex-direction: column;
+    justify-content: left; 
+}
+
+.seventh-txts {
+    text-align: left;
+}
+
+.p7-1{
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 16;
+}
+
+.p7-2{
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+
+}
+.p7-3{
+    color: rgba(7, 2, 17);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    max-width: 900px;
+}
+
+.c7-image-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+c-7-Image-top{
+    display: flex;
     
-}
-
-.red{
- 
-}
-.discount{
 
 }
 
-.girl{
+c-7-Image-bottom{
     
 }
