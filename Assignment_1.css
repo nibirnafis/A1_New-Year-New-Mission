@@ -26,7 +26,7 @@
     margin-top: 16px;
     font-weight: 900;
 }
-   /* background-image: linear-gradient(to bottom, rgb(0, 0, 0), rgba(0, 0, 0, 0)); */
+
 
 /* Section-2 */
 
@@ -73,10 +73,9 @@
     margin-bottom: 0px;
 }
 
-/* Section-2 */
+/* Section-3 */
 
 .Third-Container{
-    margin-top: 120px;
     position: relative;
     display: flex;
     justify-content: center;
@@ -112,4 +111,191 @@
     font-family: Inter;
     font-size: 20px;
     font-weight: 700;
+}
+
+/* Section-4 */
+
+.Fourth-Container{
+    position: relative;
+    border-radius: 8px;
+    margin: 120px 0px 120px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.Fourth-Container-Txtbtn{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    text-align: center;
+    color: #070211;
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 600;
+    margin-bottom: 48px;
+    
+}
+
+.p4-redtext{
+    color: #F00;
+}
+
+.button{
+    background-color: #FF0000;
+    font-size: 20px;
+    font-weight: 700;
+    color: #ffffff;
+    width: 167px ;
+    height: 56px ;
+    border-radius: 8px;
+    border: none;
+}
+
+/* Section-5 */
+.Fifth-container{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 120px;
+}
+
+.fifth-contants{
+    max-width: 1320px;
+    max-height: 463px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.p5-1{
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 16px;
+}
+.p5-2{
+    margin-top: 0px;
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    margin-bottom: 0px;
+
+
+}
+.p5-3{
+    margin-top: 22px;
+    color: rgba(7, 2, 17);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.Fifth-container-txts{
+    margin-right: 120px;
+    padding-top: 70px;
+
+}
+
+.middle image {
+    align-items: center;
+    
+}
+
+.p5-4{
+    color: #F00;
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+    margin-bottom: 16px;
+}
+
+.p5-5{
+    color: rgba(7, 2, 17);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.Fifth-container-txts-img{
+    margin-left: 167px;
+    padding-top: 50px;
+    
+}
+
+/* section-6 */
+.sixth-container{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 120px;
+}
+
+.sisth-contants{
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
+    max-width: 1320px;
+    /* max-height: 986px; */
+}
+
+.sisth-container-txts{
+    text-align: center;
+}
+
+.p6-1{
+    color: #070211;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 16;
+}
+.Holidays{
+    color: #F00;
+}
+
+.p6-2{
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-weight: 900;
+    margin-top: 0px;
+    margin-bottom: 28px;
+}
+.p6-3{
+    margin-top: 0px;
+    color: rgba(7, 2, 17);
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    padding: 0px 140px;
+}
+
+.c-6-Image{
+    position: relative;
+    max-width: 1320px;
+    max-height: 672px;
+}
+
+.box ,.discount{
+    position: absolute;
+}
+
+.box{
+    
+}
+
+.red{
+ 
+}
+.discount{
+
+}
+
+.girl{
+    
 }
