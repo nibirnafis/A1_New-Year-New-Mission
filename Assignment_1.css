@@ -275,6 +275,11 @@
     padding: 0px 140px;
 }
 
+.c6-image-container{
+    display: flex;
+    justify-content: center;
+}
+
 .c-6-Image{
     position: relative;
     max-width: 1320px;
@@ -283,6 +288,21 @@
 
 .box ,.discount{
     position: absolute;
+}
+
+.discount{
+    display: flex;
+    margin-left: 700px;
+    margin-top: 80px;
+}
+.girl{
+    display: flex;
+    justify-content: right;
+    
+}
+
+.red{
+    
 }
 
 /* section-7 */
