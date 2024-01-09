@@ -461,8 +461,10 @@
     display: flex;
     justify-content: center;
     gap: 24px;
-    border: 2px;
+    border: #ffffff;
+    border-width: .5px;
     border-style: solid;
+    padding: 50px 0px 50px;
 }
 
 .rightsandUns{
