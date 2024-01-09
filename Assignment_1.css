@@ -296,11 +296,13 @@
 .seventh-contants{
     display: flex;
     flex-direction: column;
-    justify-content: left; 
+    justify-content: left;
+    
 }
 
 .seventh-txts {
     text-align: left;
+    margin-bottom: 48px;
 }
 
 .p7-1{
@@ -316,6 +318,7 @@
     font-family: Merriweather;
     font-size: 48px;
     font-weight: 900;
+    margin-bottom: 22px;
 
 }
 .p7-3{
@@ -323,21 +326,67 @@
     font-family: Inter;
     font-size: 20px;
     font-weight: 400;
-    max-width: 900px;
 }
 
 .c7-image-container{
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: left;
+    gap: 20px;
 }
 
-c-7-Image-top{
+.c7-Image-top{
     display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.c7-Image-bottom{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+/* section - 8*/
+
+.eight-container{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 120px;
     
+}
+
+.eight-allcontants{
+    background-color: rgba(255, 0, 0, 0.05);
+    width: 1320px;
+    height: 616px;
+}
+
+.textandicon{
+    margin-top: 80px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 
 }
 
-c-7-Image-bottom{
-    
+.p8-1{
+    color: #070211;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.p8-2{
+    color: rgb(7, 2, 17);
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.email input{
+
 }
